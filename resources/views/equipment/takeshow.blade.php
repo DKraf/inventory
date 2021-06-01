@@ -39,7 +39,7 @@
         @endforeach
             </table>
             <div class="pull-right">
-                <button type="submit"  style="margin-left: 1300px" class="btn btn-primary" >Отправить</button>
+                <button type="submit"  style="margin-left: 1300px" class="btn btn-primary" >Принять</button>
             </div>
         </div>
     </form>
